@@ -1,0 +1,6 @@
+@yuxi_demo_HostAddress = http://localhost:5254
+
+GET {{yuxi_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
